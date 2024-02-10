@@ -2,46 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Overview geral 
+Conquistei méritos em instituições que promovem alto nível na área de exatas e participei com consistência de projetos de engajamento social e educacional. Tenho conhecimento sobre linguagem Python, JavaScript, React e gestão de projetos em equipe. Sou entusiasta pelo constante aprendizado e sem medo de correr riscos
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Experiências
+Em geral, participei de diversos clubes  na faculdade e já tive oportunidade de estagiar na empresa Cia de Talentos
+- [Clique aqui para ver tudo](./experiencias)
 
-## Getting Started
+## Formação Acadêmica
+Estou cursando atualmente Engenharia da Computação no Inteli(Instituto de Tecnologia e Liderança)
+- [Clique aqui para ver tudo](./formacao_academica)
 
-Get started by **creating a new site**.
+## Projetos
+Ao longo dos módulos do INteli, que tem ensino baseado em projetos pude desenvolver diversas soluções para solucionar dores de diferentes renomadas empresas e instituições.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- [Clique aqui para ver tudo](./projetos)
 
-### What you'll need
+## Reconhecimento e Prêmios
+Consegui conquistar aprovação em algumas intituições de Ensino Superior, além de reconhecimento em olimpíadas e competições no geral.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Clique aqui para ver tudo](./reconhecimentos_e_premios)
 
-## Generate a new site
+## Trabalho Voluntário
+Já participei de diversos trabalhos voluntários ligados a educação que promovem o direito igualitário do acesso ao ensino de qualidade.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [Clique aqui para ver tudo](./trabalho_voluntario)

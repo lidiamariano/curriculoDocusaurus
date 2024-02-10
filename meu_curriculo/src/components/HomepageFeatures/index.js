@@ -4,42 +4,39 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Pensamento Crítico',
+    imgPath: require('@site/static/img/pensamento_critico.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Tenho habilidade para identificar problemas, propor soluções e argumentar de forma lógica e coerente.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Trabalho em Equipe',
+    imgPath: require('@site/static/img/trabalho_em_equipe.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Sou flexível, comunicativo e proativo, buscando sempre o melhor resultado para o grupo.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Competência e Disciplina',
+    imgPath: require('@site/static/img/disciplina.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Tenho iniciativa, criatividade e foco nos meus objetivos, buscando superar os desafios que surgem.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imgPath, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={imgPath} alt={title} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -48,6 +45,7 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+
 
 export default function HomepageFeatures() {
   return (
