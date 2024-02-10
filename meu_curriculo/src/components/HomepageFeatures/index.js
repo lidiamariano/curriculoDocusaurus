@@ -17,7 +17,7 @@ const FeatureList = [
     imgPath: require('@site/static/img/trabalho_em_equipe.png').default,
     description: (
       <>
-        Sou flexível, comunicativo e proativo, buscando sempre o melhor resultado para o grupo.
+        Sou flexível, comunicativa e proativa, buscando sempre o melhor resultado para o grupo.
       </>
     ),
   },

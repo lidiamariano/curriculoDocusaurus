@@ -1,5 +1,9 @@
 # Experiências
 
+## Clube de Robótica | Inteli
+- Membro da Diretoria Acadêmica
+- *nov 2023 - até o momento*
+
 ## Inteli Reaserch
 - Pesquisadora
 - Membro da liga do Inteli que aproxima os alunos de iniciativas científicas.
@@ -22,4 +26,3 @@
 ## LALA - Latin American Leadership Academy
 - Participante
 - Aprovada na Academia de Liderança da América Latina
-- *1 sem*
