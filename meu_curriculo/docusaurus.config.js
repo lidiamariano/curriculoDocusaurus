@@ -64,24 +64,24 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/estrela.png',
       navbar: {
-        title: 'My Site',
+        title: 'Inicio',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'estrelinha',
+          src: 'img/estrela.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Meu currículo',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/lidiamariano',
+            label: 'Meu GitHub',
             position: 'right',
           },
         ],
@@ -93,7 +93,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Meu currículo',
                 to: '/docs/intro',
               },
             ],
@@ -102,34 +102,18 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/lidia-mariano-b68282264/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/lidiamariano',
               },
             ],
           },
+          
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © Currículo da Lidia`,
       },
       prism: {
         theme: prismThemes.github,
