@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/estrela.png',
 
   // Set the production url of your site here
-  url: 'https://lidiamariano.github.io/curriculoDocusaurus/',
+  url: 'https://lidiamariano.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,14 +21,14 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lidiamariano', // Usually your GitHub org/user name.
-  projectName: 'curriculoLidia', // Usually your repo name.
+  projectName: 'lidiamariano.github.io', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   deploymentBranch: 'main',
-  githubHost: 'github.com',
-  githubPort: '22',
+  trailingSlash:false,
+  
   
 
   // Even if you don't use internationalization, you can use this field to set
